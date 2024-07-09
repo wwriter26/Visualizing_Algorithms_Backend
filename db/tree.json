@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "data": "node 1",
+  "left": {
+    "id": 2,
+    "data": "node 2",
+    "left": null,
+    "right": null
+  },
+  "right": {
+    "id": 3,
+    "data": "node 3",
+    "left": {
+      "id": 4,
+      "data": "node 4",
+      "left": null,
+      "right": null
+    },
+    "right": null
+  }
+}

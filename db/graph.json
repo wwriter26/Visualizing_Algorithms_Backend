@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "data": "node1",
+  "neighbors": [
+    {
+      "id": 2,
+      "data": "node2",
+      "neighbors": []
+    },
+    {
+      "id": 3,
+      "data": "node3",
+      "neighbors": []
+    },
+    {
+      "id": 4,
+      "data": "node4",
+      "neighbors": [
+        {
+          "id": 5,
+          "data": "node5",
+          "neighbors": []
+        }
+      ]
+    }
+  ]
+}

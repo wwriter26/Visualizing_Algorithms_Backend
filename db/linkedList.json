@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "data": "node1"
+  }, 
+  {
+    "id": 2,
+    "data": "node2"
+  }, 
+  {
+    "id": 3,
+    "data": "node3"
+  }, 
+  {
+    "id": 4,
+    "data": "node4"
+  }
+]
